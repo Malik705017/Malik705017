@@ -14,6 +14,8 @@ Hi, I'm Malik, a student from National Taiwan University and I major in [Departm
 ### Backend
 - NodeJS
 - Express
+- MongoDB
+- PostgreSQL
 
 ### General
 - Git
@@ -21,3 +23,6 @@ Hi, I'm Malik, a student from National Taiwan University and I major in [Departm
 - Postman
 - Swagger
 
+## Education
+- National Taiwan University, Department of Computer Science and Information Engineering (2022-) 台大資工
+- National Taiwan University, Department of Information Management (2018-2022) 台大資管
