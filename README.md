@@ -31,6 +31,10 @@
 ## Portfolio
 - [ITSEED official](https://stage.itseed.tw/)
 - [Malik's NextJS Starter](https://malik-nextjs-starter.vercel.app/)
+- [Elsword Shop](https://elshop-stage.vercel.app/)
 
-## Links
+## Links and CVs
 - [LinkedIn](https://www.linkedin.com/in/malik-chang/)
+- [Medium](https://malik11217.medium.com/)
+- [PDF](https://drive.google.com/file/d/1D-L2MH5tagFYgt6nHjupo3pJoQkJdswu/view?usp=sharing)
+- [104 CV](https://pda.104.com.tw/profile/share/bEL58cXJd6lmdNyLULnEvCFle3AXWz4g)
