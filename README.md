@@ -29,7 +29,7 @@
 - Postman
 
 ## Portfolio
-- [ITSEED official](https://stage.itseed.tw/) (password: 1loveitseed)
+- [ITSEED official](https://stage.itseed.tw/) (account: `dev` password: `1loveitseed`)
 - [Elsword Shop](https://elshop-stage.vercel.app/)
 
 ## Links and CVs
