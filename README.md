@@ -29,8 +29,7 @@
 - Postman
 
 ## Portfolio
-- [ITSEED official](https://stage.itseed.tw/)
-- [Malik's NextJS Starter](https://malik-nextjs-starter.vercel.app/)
+- [ITSEED official](https://stage.itseed.tw/) (password: 1loveitseed)
 - [Elsword Shop](https://elshop-stage.vercel.app/)
 
 ## Links and CVs
