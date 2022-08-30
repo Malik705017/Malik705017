@@ -24,9 +24,10 @@
 - Express
 
 ### Tools
-- Git
-- Docker
+- Git & Github Action
 - Postman
+- Firebase
+- Vercel
 
 ## Portfolio
 - [ITSEED official](https://stage.itseed.tw/) (account: `dev` password: `1loveitseed`)
@@ -35,5 +36,5 @@
 ## Links and CVs
 - [LinkedIn](https://www.linkedin.com/in/malik-chang/)
 - [Medium](https://malik11217.medium.com/)
-- [PDF](https://drive.google.com/file/d/1D-L2MH5tagFYgt6nHjupo3pJoQkJdswu/view?usp=sharing)
+- [PDF](https://drive.google.com/drive/folders/1v3zBso6KGfWdmjFcaWqVnzuWLgA-7rl9?usp=sharing)
 - [104 CV](https://pda.104.com.tw/profile/share/bEL58cXJd6lmdNyLULnEvCFle3AXWz4g)
