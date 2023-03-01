@@ -9,15 +9,15 @@
 ## Honor
 ### ACM Paper, "Spelland"
 - Situated language learning with a Mixed-Reality spelling game through everyday objects.
-- Institution: CHI (ACM Conference on Human Factors in Computing Systems), Student Game Competition 2023
+- Institution: [CHI (ACM Conference on Human Factors in Computing Systems), Student Game Competition 2023](https://chi2023.acm.org/)
 
 ### Best Game Award, "Race In Piece"
 - A Unity2D game combining cards and pieces gaming experience.
-- Institution: 全國創意遊戲設計大賽 2023
+- Institution: [全國創意遊戲設計大賽 2023](https://lhudcenter.wixsite.com/gamecompetition/agenda-1)
 
 ### Honorable Mention, "Crowditor"
 - A system providing crowd funding context evaluation.
-- Institution: International ICT Innovative Services Awards 2021
+- Institution: [International ICT Innovative Services Awards 2021](https://lhudcenter.wixsite.com/gamecompetition/agenda-1)
 
 ## Work Experience
 - [CMoney](https://www.cakeresume.com/companies/cmoney), Associate Product Manager 2023.1 - NOW
