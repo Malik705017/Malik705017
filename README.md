@@ -45,7 +45,7 @@
 - Bachelor, National Taiwan University, Department of Information Management (2018-2022) 台大資管
 
 ## Portfolio
-- [ITSEED official](https://stage.itseed.tw/) (account: `dev` password: `1loveitseed`)
+- [ITSEED official](https://itseed.tw/)
 
 ## Links and CVs
 - [LinkedIn](https://www.linkedin.com/in/malik-chang/)
