@@ -50,5 +50,3 @@
 ## Links and CVs
 - [LinkedIn](https://www.linkedin.com/in/malik-chang/)
 - [Medium](https://malik11217.medium.com/)
-- [PDF](https://drive.google.com/drive/folders/1v3zBso6KGfWdmjFcaWqVnzuWLgA-7rl9?usp=sharing)
-- [104 CV](https://pda.104.com.tw/profile/share/bEL58cXJd6lmdNyLULnEvCFle3AXWz4g)
