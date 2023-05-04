@@ -7,9 +7,9 @@
 - Recently, I have some interest in product management so I apply a PM job in a software CO.
 
 ## Honor
-### ACM Paper, "Spelland"
+### ACM Paper, ["Spelland"](https://dl.acm.org/doi/pdf/10.1145/3544549.3583830)
 - Situated language learning with a Mixed-Reality spelling game through everyday objects.
-- Institution: [CHI (ACM Conference on Human Factors in Computing Systems), Student Game Competition 2023](https://chi2023.acm.org/)
+- Institution: [CHI (ACM Conference on Human Factors in Computing Systems), Student Game Competition 2023]([https://chi2023.acm.org/](https://dl.acm.org/doi/abs/10.1145/3544549.3583830))
 
 ### Best Game Award, "Race In Piece"
 - A Unity2D game combining cards and pieces gaming experience.
