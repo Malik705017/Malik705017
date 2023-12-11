@@ -25,20 +25,24 @@
 
 ## Skills
 ### Frontend
-- HTML, CSS and JavaScript(TypeScript)
+- HTML, CSS and JavaScript (TypeScript)
 - ReactJS
 - Redux
-- NextJS
+- React query
+- NextJS (both app router & page router)
+- Tailwindcss 
+- Webpack
 
 ### Backend
-- NodeJS
-- Express
+- NodeJS (Express)
 
 ### Tools
-- Git & Github Action
-- Postman
-- Firebase
-- Vercel
+- Git & Github Action for CICD pipeline
+- Postman for API testing
+- Firebase for authentication
+- Vercel for nextjs website hosting
+- Docker for developing, shipping, and running applications.
+- AWS for static website hosting: S3, Cloudfront
 
 ## Education
 - Master, National Taiwan University, Department of Computer Science and Information Engineering (2022-) 台大資工
@@ -50,3 +54,4 @@
 ## Links and CVs
 - [LinkedIn](https://www.linkedin.com/in/malik-chang/)
 - [Medium](https://malik11217.medium.com/)
+- [Personal Website](https://malik.com)
