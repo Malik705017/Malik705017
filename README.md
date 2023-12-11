@@ -50,4 +50,4 @@
 ## Links and CVs
 - [LinkedIn](https://www.linkedin.com/in/malik-chang/)
 - [Medium](https://malik11217.medium.com/)
-- [Personal Website](https://malik.com)
+- [Personal Website](https://malikchang.com)
