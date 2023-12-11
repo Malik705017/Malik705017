@@ -1,10 +1,6 @@
 # Hi, I'm Malik
 
-### A software developer and product manager from Taiwan and currently a master student in [NTU CSIE](https://www.csie.ntu.edu.tw/). 
-
-- I love web development and devote myself to it for 2 years, learning how to use React to devlop CSR SPA and NextJS for SSG SPA (both with TypeScript). 
-- I have ambitious for being a great full-stack developer. Therefore, I plan to learning web infrastructure and some backend stuff in the near future.
-- Recently, I have some interest in product management so I apply a PM job in a software CO.
+### A software developer and product manager from Taiwan and currently a master student in [NTU CSIE](https://www.csie.ntu.edu.tw/). I have 2 year experience with React and NextJS for developing SPA in typescript.
 
 ## Honor
 ### ACM Paper, ["Spelland"](https://dl.acm.org/doi/pdf/10.1145/3544549.3583830)
