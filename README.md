@@ -16,7 +16,7 @@
 - Institution: [International ICT Innovative Services Awards 2021](https://innoserve.tca.org.tw/)
 
 ## Work Experience
-- [CMoney](https://www.cakeresume.com/companies/cmoney), Associate Product Manager 2023.1 - NOW
+- [CMoney](https://www.cakeresume.com/companies/cmoney), Associate Product Manager 2023.1 - 2023.5
 - [25sprout](25sprout.com), Frontend Developer Intern 2021.7 - 2022.6
 
 ## Skills
@@ -24,7 +24,7 @@
 - HTML, CSS and JavaScript (TypeScript)
 - ReactJS
 - Redux
-- React query
+- React Query
 - NextJS (both app router & page router)
 - Tailwindcss 
 - Webpack
@@ -38,7 +38,7 @@
 - Firebase for authentication
 - Vercel for nextjs website hosting
 - Docker for developing, shipping, and running applications.
-- AWS for static website hosting: S3, Cloudfront
+- AWS for static website hosting: S3, Cloudfront, Route 53
 
 ## Education
 - Master, National Taiwan University, Department of Computer Science and Information Engineering (2022-) 台大資工
