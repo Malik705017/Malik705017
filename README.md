@@ -3,7 +3,9 @@
 ### As a software developer, I have 3 year experience in frontend development. As a master's student in [NTU CSIE](https://www.csie.ntu.edu.tw/) and [Human Computer Interaction Lab](https://www.mikechen.com), I published four papers in [ACM SIGCHI](https://sigchi.org/), the leading international community of Human Computer Interaction, with lab members.
 
 ## Publications
+### First author
 - MobileHCI'24, [Experience from Designing Augmented Reality Browsing Interfaces for Real-world Walking Scenarios](https://dl.acm.org/doi/10.1145/3676500)
+### Co author
 - UIST'24, [SpinShot: Optimizing Both Physical and Perceived Force Feedback of Flywheel-Based, Directional Impact Handheld Devices](https://dl.acm.org/doi/)
 - DIS'24, [Exploring Augmented Reality Interface Designs for Virtual Meetings in Real-world Walking Contexts](https://dl.acm.org/doi/10.1145/3643834.3661538)
 - CHI'23, [Spelland: Situated language learning with a Mixed-Reality spelling game through everyday objects](https://dl.acm.org/doi/pdf/10.1145/3544549.3583830)
