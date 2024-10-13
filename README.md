@@ -6,7 +6,7 @@
 ### First author
 - MobileHCI'24, [Experience from Designing Augmented Reality Browsing Interfaces for Real-world Walking Scenarios](https://dl.acm.org/doi/10.1145/3676500)
 ### Co author
-- UIST'24, [SpinShot: Optimizing Both Physical and Perceived Force Feedback of Flywheel-Based, Directional Impact Handheld Devices](https://dl.acm.org/doi/)
+- UIST'24, [SpinShot: Optimizing Both Physical and Perceived Force Feedback of Flywheel-Based, Directional Impact Handheld Devices](https://dl.acm.org/doi/10.1145/3654777.3676433)
 - DIS'24, [Exploring Augmented Reality Interface Designs for Virtual Meetings in Real-world Walking Contexts](https://dl.acm.org/doi/10.1145/3643834.3661538)
 - CHI'23, [Spelland: Situated language learning with a Mixed-Reality spelling game through everyday objects](https://dl.acm.org/doi/pdf/10.1145/3544549.3583830)
 
