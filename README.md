@@ -1,6 +1,6 @@
 # Hi, I'm Malik
 
-### As a software developer currently working in [TSMC](https://www.tsmc.com/), I have 3 year experience in frontend development and 1 year experience in backend development As a master's student in [NTU CSIE](https://www.csie.ntu.edu.tw/) and [Human Computer Interaction Lab](https://www.mikechen.com), I published four papers in [ACM SIGCHI](https://sigchi.org/), the leading international community of Human Computer Interaction, with lab members.
+As a software developer currently working in [TSMC](https://www.tsmc.com/), I have 4-year experience in frontend development and 1-year experience in backend development. As a master's student in [NTU CSIE](https://www.csie.ntu.edu.tw/) and [Human Computer Interaction Lab](https://www.mikechen.com), I published four papers in [ACM SIGCHI](https://sigchi.org/), the leading international community of Human Computer Interaction, with lab members.
 
 ## Publications
 ### First author
